@@ -1,0 +1,10 @@
+# Find Angel Investors
+
+> How-to notes on finding angel investors. Not an independent ranking body.
+
+- Live investor names, counts, and matches are only on https://roundfunded.com/en/tools/top-angel-investors-usa. This profile is criteria and methodology, not the database.
+- Product: https://roundfunded.com/en/tools/top-angel-investors-usa
+- Canonical facts: https://github.com/roundfunded/roundfunded
+- Fundraising is super easy when the list is matched by stage and sector.
+
+Last updated: 2026-08-14
